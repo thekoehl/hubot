@@ -14,11 +14,11 @@
 #   fusion94
 
 scotch = [
-  "https://s3.amazonaws.com/scotch-assets/scotch_1.jpg",
-  "https://s3.amazonaws.com/scotch-assets/scotch_2.jpg",
-  "https://s3.amazonaws.com/scotch-assets/scotch_3.jpg",
-  "https://s3.amazonaws.com/scotch-assets/scotch_4.jpg",
-  "https://s3.amazonaws.com/scotch-assets/scotch_5.jpg"
+  "https://s3-us-west-2.amazonaws.com/koehl-hubot/assets/images/scotches/auchentoshan-three-wood.jpg",
+  "https://s3-us-west-2.amazonaws.com/koehl-hubot/assets/images/scotches/glenfidditch-12.jpg",
+  "https://s3-us-west-2.amazonaws.com/koehl-hubot/assets/images/scotches/lagavulin-16.jpg",
+  "https://s3-us-west-2.amazonaws.com/koehl-hubot/assets/images/scotches/laphroaig-10.jpg",
+  "https://s3-us-west-2.amazonaws.com/koehl-hubot/assets/images/scotches/macallan-12.jpg"
 ]
 
 module.exports = (robot) ->
